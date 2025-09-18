@@ -1,5 +1,5 @@
 
-# Red Wine Quality Prediction
+#  Wine Quality Prediction
 
 This project aims to predict the quality of red wines from the Portuguese "Vinho Verde" dataset using machine learning techniques. The dataset consists of physicochemical (input) and sensory (output) variables. The goal is to classify wines as **good quality** or **bad quality** based on these attributes.
 
